@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bhardie",
+    "longName": "Counter",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/imagine.ttf",
+                "name": "IMAGINE_42",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Counter",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "476b1191-53bf-40e2-a3da-974f54a52a06",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
